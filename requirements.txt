@@ -1,0 +1,11 @@
+# 按本机 CUDA 环境先安装相互兼容的 torch / torchvision。
+torch
+torchvision
+numpy
+Pillow
+tqdm
+opencv-python
+tensorboard
+ftfy
+regex
+# 还需准备 vendor/dinov2 与 vendor/CLIP，参见 README。
